@@ -1,2 +1,2 @@
-# JavaScript-DOM-Tutorial
-All course files for the JavaScrip DOM Tutorials on The Net Ninja YouTube channel.
+# JavaScript-DOM-Mini-App
+Curso feito e baixado no canal The Net Ninja no Youtube
